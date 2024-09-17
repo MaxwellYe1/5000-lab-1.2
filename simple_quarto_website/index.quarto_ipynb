@@ -1,0 +1,49 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"simple_quarto_website\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Main Title (h1)\n",
+        "\n",
+        "## Two-Column Layout\n",
+        "\n",
+        "\n",
+        "\n",
+        "### Left Column\n",
+        "\n",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula magna vitae sapien tincidunt, eu dignissim lacus congue. Nulla facilisi. Integer ultricies tincidunt lectus, ut viverra libero convallis sit amet.\n",
+        "\n",
+        "### Right Column\n",
+        "\n",
+        "Donec feugiat, est nec dictum vehicula, odio justo sodales risus, a cursus metus augue nec arcu. Aliquam erat volutpat. Suspendisse potenti. Quisque a eros non urna ullamcorper sodales.\n",
+        "\n",
+        "\n",
+        "\n",
+        "### Title3 (h3)\n",
+        "\n",
+        "Data Science\n",
+        "\n",
+        "\n",
+        "To learn more about Quarto websites visit <https://quarto.org/docs/websites>."
+      ],
+      "id": "91d2f56b"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

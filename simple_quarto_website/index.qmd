@@ -1,0 +1,103 @@
+---
+title: "simple_quarto_website"
+format: html
+toc: true
+toc-title: "Table of Contents"
+bibliography: reference.bib
+---
+
+# Main Title (h1)
+
+## Two-Column Layout(h2)
+
+::: {layout-ncol=2}
+
+
+**First column**
+
+**Second column** 
+
+I would like to have text here
+
+and here
+
+Sentence becomes longer, it should automatically stay in their column
+
+More text
+
+:::
+
+
+
+### Bullet (h3)
+
+- DSAN
+- Data Science
+- Master
+
+## Table Sample
+
+| Name       | Age | Dept    |
+|------------|-----|---------------|
+| Alice      | 20  | Comp. Sci. |
+| Bob        | 25  | DSAN |
+| Charlie    | 35  | Math |
+
+
+## Inline_math
+$a^2 + b^2 = c^2$
+
+## Non inline-math
+$$
+a + b = c
+$$
+
+## Footnote
+
+Here is a footnote reference[^1].
+
+[^1]: Here is the footnote.
+
+
+
+## Quote
+
+> blah
+
+# Image Samples
+
+## Row 1
+
+![Image 1](image1.jpg) ![Image 2](image2.jpg)
+
+## Row 2
+
+![Image 3](image3.jpg) ![Image 4](image4.jpg)
+
+## Embedded YouTube Video
+
+{{< video https://www.youtube.com/watch?v=wUUGysYuW0M >}}
+
+## Mermaid
+```{mermaid}
+sequenceDiagram
+  participant Alice
+  participant Bob
+  Alice->>John: Hello John, how are you?
+  loop Healthcheck
+    John->>John: Fight against hypochondria
+  end
+  Note right of John: Rational thoughts <br/>prevail!
+  John-->>Alice: Great!
+  John->>Bob: How about you?
+  Bob-->>John: Jolly good!
+```
+
+## Citations
+wickham's paper [@wickham2023r].
+
+van's paper [@van2016data].
+# References
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

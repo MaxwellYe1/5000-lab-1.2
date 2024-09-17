@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "slides/slides.html#getting-up",
+    "href": "slides/slides.html#getting-up",
+    "title": "Habits",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/slides.html#breakfast",
+    "href": "slides/slides.html#breakfast",
+    "title": "Habits",
+    "section": "Breakfast",
+    "text": "Breakfast\n\nEat eggs\nDrink coffee"
+  },
+  {
+    "objectID": "slides/slides.html#dinner",
+    "href": "slides/slides.html#dinner",
+    "title": "Habits",
+    "section": "Dinner",
+    "text": "Dinner\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-sleep",
+    "href": "slides/slides.html#going-to-sleep",
+    "title": "Habits",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "slides/slides.html#images1",
+    "href": "slides/slides.html#images1",
+    "title": "Habits",
+    "section": "Images1",
+    "text": "Images1\nHere is the first image:"
+  },
+  {
+    "objectID": "slides/slides.html#images2",
+    "href": "slides/slides.html#images2",
+    "title": "Habits",
+    "section": "Images2",
+    "text": "Images2\nHere is the second image:"
+  },
+  {
+    "objectID": "slides/slides.html#plot",
+    "href": "slides/slides.html#plot",
+    "title": "Habits",
+    "section": "Plot",
+    "text": "Plot"
+  },
+  {
+    "objectID": "slides/slides.html#cite",
+    "href": "slides/slides.html#cite",
+    "title": "Habits",
+    "section": "Cite",
+    "text": "Cite\nThis is a citation(Van Der Aalst and Aalst 2016).\n\n\n\n\n\n\n\n\nVan Der Aalst, Wil, and Wil van der Aalst. 2016. Data Science in Action. Springer."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "First column\n\n\nSecond column\n\n\n\n\nI would like to have text here\n\n\nand here\n\n\n\n\nSentence becomes longer, it should automatically stay in their column\n\n\nMore text\n\n\n\n\n\n\nDSAN\nData Science\nMaster\n\n\n\n\n\n\n\n\nName\nAge\nDept\n\n\n\n\nAlice\n20\nComp. Sci.\n\n\nBob\n25\nDSAN\n\n\nCharlie\n35\nMath\n\n\n\n\n\n\n\\(a^2 + b^2 = c^2\\)\n\n\n\n\\[\na + b = c\n\\]\n\n\n\nHere is a footnote reference1.\n\n\n\n\nblah"
+  },
+  {
+    "objectID": "index.html#two-column-layouth2",
+    "href": "index.html#two-column-layouth2",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "First column\n\n\nSecond column\n\n\n\n\nI would like to have text here\n\n\nand here\n\n\n\n\nSentence becomes longer, it should automatically stay in their column\n\n\nMore text\n\n\n\n\n\n\nDSAN\nData Science\nMaster"
+  },
+  {
+    "objectID": "index.html#table-sample",
+    "href": "index.html#table-sample",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Name\nAge\nDept\n\n\n\n\nAlice\n20\nComp. Sci.\n\n\nBob\n25\nDSAN\n\n\nCharlie\n35\nMath"
+  },
+  {
+    "objectID": "index.html#inline_math",
+    "href": "index.html#inline_math",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "\\(a^2 + b^2 = c^2\\)"
+  },
+  {
+    "objectID": "index.html#non-inline-math",
+    "href": "index.html#non-inline-math",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "\\[\na + b = c\n\\]"
+  },
+  {
+    "objectID": "index.html#footnote",
+    "href": "index.html#footnote",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Here is a footnote reference1."
+  },
+  {
+    "objectID": "index.html#quote",
+    "href": "index.html#quote",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "blah"
+  },
+  {
+    "objectID": "index.html#row-1",
+    "href": "index.html#row-1",
+    "title": "simple_quarto_website",
+    "section": "Row 1",
+    "text": "Row 1"
+  },
+  {
+    "objectID": "index.html#row-2",
+    "href": "index.html#row-2",
+    "title": "simple_quarto_website",
+    "section": "Row 2",
+    "text": "Row 2"
+  },
+  {
+    "objectID": "index.html#embedded-youtube-video",
+    "href": "index.html#embedded-youtube-video",
+    "title": "simple_quarto_website",
+    "section": "Embedded YouTube Video",
+    "text": "Embedded YouTube Video"
+  },
+  {
+    "objectID": "index.html#mermaid",
+    "href": "index.html#mermaid",
+    "title": "simple_quarto_website",
+    "section": "Mermaid",
+    "text": "Mermaid\n\n\n\n\n\nsequenceDiagram\n  participant Alice\n  participant Bob\n  Alice-&gt;&gt;John: Hello John, how are you?\n  loop Healthcheck\n    John-&gt;&gt;John: Fight against hypochondria\n  end\n  Note right of John: Rational thoughts &lt;br/&gt;prevail!\n  John--&gt;&gt;Alice: Great!\n  John-&gt;&gt;Bob: How about you?\n  Bob--&gt;&gt;John: Jolly good!"
+  },
+  {
+    "objectID": "index.html#citations",
+    "href": "index.html#citations",
+    "title": "simple_quarto_website",
+    "section": "Citations",
+    "text": "Citations\nwickham’s paper (Wickham, Çetinkaya-Rundel, and Grolemund 2023).\nvan’s paper (Van Der Aalst and Aalst 2016). # References\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the footnote.↩︎"
+  }
+]
